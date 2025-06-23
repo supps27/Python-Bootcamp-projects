@@ -16,7 +16,8 @@ This repository contains my **code, solutions, and mini-projects** as I progress
 ---
 
 ## 🗂 **Repository Structure**
-- [Day 1 to 8: Cumulative Notebook](Day_1-8.ipynb)
+[Day 1 to 8 Notebook](Day_1-8.ipynb)
+
 
 
 
