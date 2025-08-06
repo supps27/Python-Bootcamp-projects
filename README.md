@@ -34,7 +34,7 @@ This repository contains my **code, solutions, and mini-projects** as I progress
 [Day 14](Day_14.ipynb)
 
 
-[Day 15](Day_15_Virtual_coffee_machine_program.ipynb)
+[Day 15 Virtual coffee machine ](Day_15_Virtual_coffee_machine_program.ipynb)
 
 
 
