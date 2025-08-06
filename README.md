@@ -17,6 +17,13 @@ This repository contains my **code, solutions, and mini-projects** as I progress
 
 ## 🗂 **Repository Structure**
 [Day 1-8 python notebook](Day_1_8.ipynb)
+[Day 9](Day_9.ipynb)
+[Day 10](Day_10.ipynb)
+[Day 11](Day_11.ipynb)
+[Day 12](Day_12.ipynb)
+[Day 13](Day_13.ipynb)
+[Day 14](Day_14.ipynb)
+[Day 15](Day_15_Virtual_coffee_machine_program.ipynb)
 
 
 
